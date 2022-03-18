@@ -2,8 +2,8 @@
 **felippegh/felippegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Felippe </h1>
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Dominic </h1>
+<h3 align="center">A passionate Software Developer  from Germany <img src="https://cdn-icons-png.flaticon.com/512/206/206690.png" width="25 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
 You have finally discovered my Github profile, I was waiting for you! <br>
@@ -64,9 +64,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <div align="center">
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/felippegh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/felippegh" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://github.com/chi11mo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/raumschiff_chillmo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 </div>
 
@@ -96,10 +96,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <div align="center">
 <h3>Support</h3>
-<p><a href="https://www.buymeacoffee.com/felippegh"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
+<p><a href="https://www.buymeacoffee.com/k8c5gffjbc3"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" /></a></p>
 </div>
 
------
-Credits: [felippegh](https://github.com/felippegh)
-
-Last Edited on: 08/07/2021
+\
