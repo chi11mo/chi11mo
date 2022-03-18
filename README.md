@@ -26,11 +26,11 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
   <div>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/felippegh?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/chi11mo?tab=repositories)
 
-- 💬 Ask me about anything <a href="https://github.com/felippegh/felippegh/issues/new"><b>here</b></a>
+- 💬 Ask me about anything <a href="https://github.com/felippegh/chi11mo/issues/new"><b>here</b></a>
 
-- 📫 Also, you may send a nice letter to **felippegeorge@utexas.edu**
+- 📫 Also, you may send a nice letter to **dominic.wenzel@gmx.de**
 
 </div>
 <br>
