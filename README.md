@@ -46,12 +46,12 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <div>
 <details>
 <summary align="left">How about some stats?
-<img align="right" src="https://komarev.com/ghpvc/?username=felippegh" alt="felippegh" />
+<img align="right" src="https://komarev.com/ghpvc/?username=chi11mo" alt="chi11mo" />
 </summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felippegh&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chi11mo&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippegh&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi11mo&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 <p>
 <i>
