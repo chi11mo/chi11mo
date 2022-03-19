@@ -76,7 +76,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <h3>Technologies and Tools I use</h3> 
 
 <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="postman" width="45" height="45"/> </a> 
+<a href="https://www.java.net/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="postman" width="45" height="45"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
